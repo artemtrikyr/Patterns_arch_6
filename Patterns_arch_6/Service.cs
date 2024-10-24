@@ -19,16 +19,7 @@ namespace Patterns_arch_6
             Price = price;
         }
 
-        //public static List<Service> ViewServices()
-        //{
-            
-        //    return new List<Service>
-        //    {
-        //    new Service(1, "Haircut", 30, 15.0),
-        //    new Service(2, "Hair Coloring", 90, 50.0),
-        //    new Service(3, "Hair Styling", 45, 25.0)
-        //    };
-        //}
+        
     }
 
     
